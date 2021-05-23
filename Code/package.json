@@ -1,0 +1,21 @@
+{
+  "name": "csci2720-course-project",
+  "version": "1.0.0",
+  "description": "Hospital Waiting Time System",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kei Yat Long, Philip Tarrantino Limas, Lai Chun Yin, Leung Yun Ki, Wong Yik Hin",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "mongoose": "^5.12.7",
+    "node-fetch": "^2.6.1"
+  }
+}
