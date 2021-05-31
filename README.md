@@ -13,6 +13,6 @@ To install all the required package.
 
 To start the server.
 
-Project Website: http://csci2720-g104.cse.cuhk.edu.hk/
+Project Website: http://csci2720-g104.cse.cuhk.edu.hk/ (Currently Unavailable)
 
 © 2021 Andes Kei, Philip Tarrantino Limas, Lai Chun Yin, Leung Yun Ki and Wong Yik Hin
